@@ -1,9 +1,30 @@
 body {
-  background-color: #fffff0;
+  background-image: url("https://cdn.hipwallpaper.com/i/68/95/HhzDcB.jpg");
 }
 
 h1 {
   text-align: center;
+  color: ivory;
+}
+
+hr {
+  border: 1px solid ivory;
+}
+
+.show-more-button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: transparent;
+  color: ivory;
+}
+
+h2 {
+  color: ivory;
+}
+
+p {
+  color: ivory;
 }
 
 #h2num2 {
