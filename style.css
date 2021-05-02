@@ -1,21 +1,21 @@
-body{
+body {
   background-color: #fffff0;
 }
 
-h1{
-  text-align:center;
+h1 {
+  text-align: center;
 }
-      
-#h2num2{
-  font-size:21px;
+
+#h2num2 {
+  font-size: 21px;
 }
-      
-#quote{
-  font-size:83%;
-  text-align:center;
+
+#quote {
+  font-size: 83%;
+  text-align: center;
 }
-      
-.center{
+
+.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
